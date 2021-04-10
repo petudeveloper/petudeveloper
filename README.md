@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Logo](github.com_petumazo.png)
 # David Alvarez's personal README
 
 ## 🌱 Who am I? 
