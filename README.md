@@ -16,6 +16,8 @@
 - E-mail me at davidalvarezmazzo@gmail.com
  
 ## 🔭 My stack:
-- Javascript
 - HTML
 - CSS
+- Ruby
+- Ruby on Rails
+- Javascript
