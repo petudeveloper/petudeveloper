@@ -20,4 +20,4 @@
 - CSS
 - Ruby
 - Ruby on Rails
-- Javascript
+- JavaScript
