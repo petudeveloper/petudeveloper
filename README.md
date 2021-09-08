@@ -3,9 +3,9 @@
 
 ## 🌱 Who am I? 
 -  I'm a beginner programmer eager to generate solutions and create a nice user experience
--  I’m currently working on an application the connects administrators of residential with the owners of the buildings
--  Currently Microverse Student
--  I have a mechanical engineer degree and three years of experience in the industry.
+-  I’m currently working on developing and designing a website for an HVCA company
+-  Currently a Microverse student
+-  I worked as a mechanical engineer for four years, where I designed and developed an application that helped to save 25% of the time in company processes
 -  Videogames enthusiast
 -  Geek
 
